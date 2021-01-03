@@ -1,2 +1,2 @@
-# git_repo
-Git Repo for Bazel
+# new_git_repo
+New Git Repo for Bazel
